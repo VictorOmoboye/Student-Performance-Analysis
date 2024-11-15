@@ -11,3 +11,8 @@ This project focuses on leveraging Data Analytics to improve student outcomes at
 **Aspire Education Hub** faces the challenge of understanding the complex factors influencing student performance, which include demographic, academic, and extracurricular variables. The institution seeks to identify the most predictive factors of academic success, uncover patterns and relationships between these variables, and develop a predictive model to classify students into grade categories. This will enable timely, targeted interventions and equitable support for students, addressing their diverse needs and enhancing overall learning outcomes.
 
 ### AIM OF THE PROJECT
+- Identify academic and non-academic factors that are most predictive of student success.
+- Uncover patterns, trends, and relationships among demographic, academic, and extracurricular variables.
+- Develop a predictive model to classify students into grade categories for timely and targeted interventions.
+- Provide actionable insights to support diverse student needs effectively and equitably.
+- Foster a data-driven approach to improving academic outcomes and student support strategies.
