@@ -4,4 +4,4 @@
 
 ### INTRODUCTION
 This project focuses on leveraging Data Analytics to improve student outcomes at Aspire Education Hub, a diverse educational institution. Recognizing that academic success is influenced by factors such as parental education, extracurricular participation, and study habits, the initiative seeks to uncover key drivers of performance through exploratory data analysis and predictive modeling. By identifying patterns, trends, and relationships across demographic, academic, and extracurricular variables, the project aims to enable timely and targeted interventions, ensuring equitable support for all students and fostering a data-driven approach to educational excellence.
-![image](https://github.com/user-attachments/assets/2b658dc0-6f4b-4415-8332-f9570442a8bd)
+![image](https://github.com/user-attachments/assets/9489b374-8498-43cb-8306-9c1543a8a5fb)
