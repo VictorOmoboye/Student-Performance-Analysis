@@ -70,19 +70,6 @@ The code performs and visualizes multivariate analysis using bar plots and box p
 The code visualizes correlation metrics within the numerical dataset using a heatmap, highlighting key relationships. It reveals a moderate positive correlation of 0.73 between *Grade Class* and *Absences*, a weak positive correlation of 0.13 between *GPA* and *Weekly Study Time*, and a strong negative correlation of -0.92 between *GPA* and *Absences*. Additionally, a notable negative correlation of -0.79 is observed between *Grade Class* and *GPA*. These insights emphasize the significant influence of attendance and study habits on academic performance.
 ![image](https://github.com/user-attachments/assets/12e7fc1d-d240-45f5-9e6a-98512f7ce14e)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## It will get fully updated soon. Currently Under contruction.........................
+### THANK YOU
+For more information, you can contact me
+![image](https://github.com/user-attachments/assets/f1fa9d80-667e-421c-b5fa-6d796010c029)
