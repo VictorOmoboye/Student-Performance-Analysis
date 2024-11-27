@@ -3,12 +3,12 @@
 ![image](https://github.com/user-attachments/assets/661378d7-f087-42e5-b76c-2326509cf643)
 
 ### INTRODUCTION
-This project focuses on leveraging Data Analytics to improve student outcomes at Aspire Education Hub, a diverse educational institution. Recognizing that academic success is influenced by factors such as parental education, extracurricular participation, and study habits, the initiative seeks to uncover key drivers of performance through exploratory data analysis and predictive modeling. By identifying patterns, trends, and relationships across demographic, academic, and extracurricular variables, the project aims to enable timely and targeted interventions, ensuring equitable support for all students and fostering a data-driven approach to educational excellence.
+This project focuses on leveraging Data Analytics to improve student outcomes at **Aspire International College**, a diverse educational institution. Recognizing that academic success is influenced by factors such as parental education, extracurricular participation, and study habits, the initiative seeks to uncover key drivers of performance through exploratory data analysis and predictive modeling. By identifying patterns, trends, and relationships across demographic, academic, and extracurricular variables, the project aims to enable timely and targeted interventions, ensuring equitable support for all students and fostering a data-driven approach to educational excellence.
 
 ![image](https://github.com/user-attachments/assets/9489b374-8498-43cb-8306-9c1543a8a5fb)
 
 ### PROBLEM STATEMENT
-**Aspire Education Hub** faces the challenge of understanding the complex factors influencing student performance, which include demographic, academic, and extracurricular variables. The institution seeks to identify the most predictive factors of academic success, uncover patterns and relationships between these variables, and develop a predictive model to classify students into grade categories. This will enable timely, targeted interventions and equitable support for students, addressing their diverse needs and enhancing overall learning outcomes.
+**Aspire International College** faces the challenge of understanding the complex factors influencing student performance, which include demographic, academic, and extracurricular variables. The institution seeks to identify the most predictive factors of academic success, uncover patterns and relationships between these variables, and develop a predictive model to classify students into grade categories. This will enable timely, targeted interventions and equitable support for students, addressing their diverse needs and enhancing overall learning outcomes.
 
 ### AIM OF THE PROJECT
 - Identify academic and non-academic factors that are most predictive of student success.
@@ -84,7 +84,7 @@ The code visualizes correlation metrics within the numerical dataset using a hea
 - **Promote Study Habits:** Although the correlation between GPA and Study Time is weak, encouraging consistent study habits could still benefit overall student performance, especially for students with low study time.
 
 ### CONCLUSION 
-In conclusion, this project has successfully utilized data analytics to uncover key factors influencing student outcomes at Aspire Education Hub. By conducting a thorough analysis of academic, demographic, and extracurricular variables, we identified strong correlations that revealed the impact of attendance, parental support, and study habits on student performance. The project highlighted the need for targeted interventions, especially in addressing absenteeism, which was strongly linked to lower academic achievement. Additionally, demographic insights pointed to significant variations in performance across gender, ethnicity, and socioeconomic status, emphasizing the importance of personalized support strategies.
+In conclusion, this project has successfully utilized data analytics to uncover key factors influencing student outcomes at **Aspire International College**. By conducting a thorough analysis of academic, demographic, and extracurricular variables, we identified strong correlations that revealed the impact of attendance, parental support, and study habits on student performance. The project highlighted the need for targeted interventions, especially in addressing absenteeism, which was strongly linked to lower academic achievement. Additionally, demographic insights pointed to significant variations in performance across gender, ethnicity, and socioeconomic status, emphasizing the importance of personalized support strategies.
 
 
 ### THANK YOU
