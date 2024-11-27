@@ -52,7 +52,17 @@ The code addresses outliers by calculating the Interquartile Range (IQR) for the
 ![image](https://github.com/user-attachments/assets/e73caf1e-2411-4b45-8604-6c551d42437f)
 
 
+#### Bivariate Analysis
+The code visualizes correlation analysis and demographic insights using scatter plots, pair plots, box plots, and violin plots. These visualizations highlight relationships between pairs of variables, such as *GPA* vs. *Study Time* or *GPA* vs. *Parental Education*. Additionally, the analysis explores academic performance differences across demographic factors like gender, ethnicity, and socioeconomic status, providing a comprehensive view of how these variables influence student outcomes.
+![image](https://github.com/user-attachments/assets/4a32259c-b4d1-4e40-afff-e8bba47c9f43)
 
+#### Multivariate Analysis
+The code performs and visualizes multivariate analysis using bar plots and box plots to investigate the combined impact of factors such as *Parental Support* and *Extracurricular Activities* on student outcomes. These visualizations help uncover complex interactions and relationships between multiple variables, providing deeper insights into the dynamics influencing academic performance.
+![image](https://github.com/user-attachments/assets/74dfe2e2-d27c-401d-8163-2b8e993da1a6)
+
+
+The code visualizes correlation metrics within the numerical dataset using a heatmap, highlighting key relationships. It reveals a moderate positive correlation of 0.73 between *Grade Class* and *Absences*, a weak positive correlation of 0.13 between *GPA* and *Weekly Study Time*, and a strong negative correlation of -0.92 between *GPA* and *Absences*. Additionally, a notable negative correlation of -0.79 is observed between *Grade Class* and *GPA*. These insights emphasize the significant influence of attendance and study habits on academic performance.
+![image](https://github.com/user-attachments/assets/12e7fc1d-d240-45f5-9e6a-98512f7ce14e)
 
 
 
