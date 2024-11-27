@@ -31,6 +31,10 @@ findings and trends
 - **Proactive Interventions:** Data-driven strategies to support underperforming students.
 - **Enhanced Equity:** Tailored solutions to address diverse student needs, ensuring fair academic support for all.
 
+### EXPLORATORY DATA ANALYSIS
+#### Data Cleaning
+After importing the necessary libraries, this code identifies and visualizes missing values in key columns, including Parental Education, Weekly Study Time, Absences, and Parental Support.
+![image](https://github.com/user-attachments/assets/774e4b86-a224-40ae-b383-f0a3fcf4c700)
 
 
 
