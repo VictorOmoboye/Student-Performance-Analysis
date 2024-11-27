@@ -26,6 +26,12 @@ This project focuses on leveraging Data Analytics to improve student outcomes at
 - **Data Visualization:** Utilize a variety of visualizations to effectively communicate
 findings and trends
 
+#### LIBRARIES
+- **NumPy**: It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these arrays.  
+- **Pandas**: It offers data structures (like DataFrames) for handling and analyzing structured data, particularly for data manipulation and cleaning.  
+- **Matplotlib.pyplot**: A plotting library used for creating static, interactive, and animated visualizations in Python.  
+- **Seaborn**: Built on top of Matplotlib, Seaborn simplifies the creation of informative and attractive statistical graphics.
+  
 ### EXPECTED OUTCOME
 - **Improved Understanding:** Deeper insights into factors affecting student performance.
 - **Proactive Interventions:** Data-driven strategies to support underperforming students.
