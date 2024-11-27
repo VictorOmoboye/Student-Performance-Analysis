@@ -26,7 +26,7 @@ This project focuses on leveraging Data Analytics to improve student outcomes at
 - **Data Visualization:** Utilize a variety of visualizations to effectively communicate
 findings and trends
 
-### Expected Outcomes
+### EXPECTED OUTCOME
 - **Improved Understanding:** Deeper insights into factors affecting student performance.
 - **Proactive Interventions:** Data-driven strategies to support underperforming students.
 - **Enhanced Equity:** Tailored solutions to address diverse student needs, ensuring fair academic support for all.
