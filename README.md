@@ -17,4 +17,52 @@ This project focuses on leveraging Data Analytics to improve student outcomes at
 - Provide actionable insights to support diverse student needs effectively and equitably.
 - Foster a data-driven approach to improving academic outcomes and student support strategies.
 
+### SKILL & CONCEPT DEMOSTRATED
+#### Data Cleaning:
+● Handle any missing values.
+● Check for and correct anomalies.
+#### Data Exploration:
+● Conduct basic statistical analysis to understand the distribution of each variable.
+● Identify outliers, patterns, and trends in the data.
+#### Univariate Analysis:
+● Examine the distribution and spread of key variables, such as
+study time, parental education level, and GPA.
+● Explore how frequently students participate in activities like
+sports, music, and volunteering.
+Multivariate Analysis:
+● Examine interactions between multiple factors to identify
+complex relationships, such as how extracurricular activities
+and parental support jointly affect student performance.
+Bivariate Analysis:
+● Analyze relationships between pairs of variables, for instance,
+the correlation between GPA and study time or absences.
+● Investigate gender or ethnicity differences in academic
+performance.
+STEP 6
+Data Visualization:
+● Utilize a variety of visualizations to effectively communicate
+findings and trends
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## It will get fully updated soon. Currently Under contruction.........................
